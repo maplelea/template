@@ -1,0 +1,10 @@
+database:
+  dsn: "root:Yyxxmhdsqjjfs.1@tcp(14.103.248.251:3306)/go?charset=utf8mb4&parseTime=True&loc=Local"
+
+redis:
+  addr: "14.103.248.251:6379"
+  password: "Yyxxmhdsqjjfs.1"
+  db: 0
+
+rabbitmq:
+  url: "amqp://root:Yyxxmhdsqjjfs.1@14.103.248.251:5672/"
